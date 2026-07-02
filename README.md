@@ -34,12 +34,10 @@ Courses/
 │   ├── 10-Civil/
 │   └── 11-Fashion-Technology/
 │       ├── tier-1/          Highest placement demand
-│       ├── tier-2/          Strong industry demand
-│       └── tier-3/          Specialized / niche-high-value
-│           ├── 01-course-slug/
-│           │   ├── syllabus.md
-│           │   └── syllabus.pdf
-│           └── README.md
+│       │   ├── pdf/         All tier-1 PDFs for this department
+│       │   └── syllabus/    Markdown syllabi (optional reference)
+│       ├── tier-2/
+│       └── tier-3/
 ├── scripts/
 │   └── build-department-catalog.ps1
 └── course-manifest.csv      Full index of all placements
@@ -47,7 +45,18 @@ Courses/
 
 ---
 
-## Tier Guide
+## Where PDFs Are Stored
+
+Every department has PDFs grouped by tier:
+
+```
+departments/11-Fashion-Technology/tier-3/pdf/01-53-fashion-technology.pdf
+departments/01-CSE/tier-1/pdf/01-01-full-stack-development.pdf
+```
+
+Shared framework PDFs (master syllabus, combo packages, etc.) are in `_framework/`.
+
+---
 
 | Tier | Priority | Typical Use |
 |------|----------|-------------|

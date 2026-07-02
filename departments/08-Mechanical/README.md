@@ -4,6 +4,9 @@
 
 Courses organized by market demand tier. Lower tier number = higher placement priority.
 
+**PDF files** live in each tier folder under `tier-N/pdf/`.
+**Markdown syllabi** live in `tier-N/syllabus/`.
+
 | Tier | Folder | Priority |
 |------|--------|----------|
 | 1 | `tier-1/` | Highest demand |

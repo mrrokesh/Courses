@@ -159,6 +159,9 @@ foreach ($deptCode in ($departments.Keys | Sort-Object)) {
         "",
         "Courses organized by market demand tier. Lower tier number = higher placement priority.",
         "",
+        "**PDF files** live in each tier folder under ``tier-N/pdf/``.",
+        "**Markdown syllabi** live in ``tier-N/syllabus/``.",
+        "",
         "| Tier | Folder | Priority |",
         "|------|--------|----------|",
         "| 1 | ``tier-1/`` | Highest demand |",
@@ -172,38 +175,50 @@ foreach ($deptCode in ($departments.Keys | Sort-Object)) {
         if ($tracks.Count -eq 0) { continue }
 
         $tierPath = Join-Path $deptPath $tierName
-        New-Item -ItemType Directory -Path $tierPath -Force | Out-Null
+        $pdfPath = Join-Path $tierPath "pdf"
+        $syllabusPath = Join-Path $tierPath "syllabus"
+        New-Item -ItemType Directory -Path $pdfPath -Force | Out-Null
+        New-Item -ItemType Directory -Path $syllabusPath -Force | Out-Null
 
         $index = 1
-        $tierReadme = @("# $($tierName.ToUpper()) - $($departments[$deptCode])", "", "| # | Track | Course |", "|---|-------|--------|")
+        $tierReadme = @(
+            "# $($tierName.ToUpper()) - $($departments[$deptCode])",
+            "",
+            "PDFs: ``pdf/`` | Markdown syllabi: ``syllabus/``",
+            "",
+            "| # | Track | Course | PDF |",
+            "|---|-------|--------|-----|"
+        )
 
         foreach ($trackNum in $tracks) {
             $slug = $trackSlug[$trackNum]
             if (-not $slug) { continue }
 
-            $folderName = "{0:D2}-{1}" -f $index, ($slug -replace '\.md$','')
-            $coursePath = Join-Path $tierPath $folderName
+            $baseName = "{0:D2}-{1}" -f $index, ($slug -replace '\.md$','')
+            $coursePath = Join-Path $syllabusPath $baseName
             New-Item -ItemType Directory -Path $coursePath -Force | Out-Null
 
             $mdSrc = Join-Path $SourceRoot "tracks\$slug"
             $pdfSrc = Join-Path $SourceRoot "pdf\$([System.IO.Path]::ChangeExtension($slug, '.pdf'))"
+            $pdfDest = Join-Path $pdfPath "$baseName.pdf"
 
             Copy-Item $mdSrc (Join-Path $coursePath "syllabus.md") -Force
             if (Test-Path $pdfSrc) {
-                Copy-Item $pdfSrc (Join-Path $coursePath "syllabus.pdf") -Force
+                Copy-Item $pdfSrc $pdfDest -Force
             }
 
             $title = (Get-Content $mdSrc -TotalCount 20 | Select-String -Pattern '^# Track|^# Track \d+:|^# .+' | Select-Object -First 1).Line -replace '^#\s*',''
             if (-not $title) { $title = $slug }
 
-            $tierReadme += "| $index | $trackNum | $title |"
+            $tierReadme += "| $index | $trackNum | $title | ``pdf/$baseName.pdf`` |"
             $manifest += [pscustomobject]@{
                 Department     = $deptCode
                 DepartmentName = $departments[$deptCode]
                 Tier           = $tierName
                 Sequence       = $index
                 Track          = $trackNum
-                Folder         = "$deptCode/$tierName/$folderName"
+                PdfFile        = "$deptCode/$tierName/pdf/$baseName.pdf"
+                SyllabusFolder = "$deptCode/$tierName/syllabus/$baseName"
                 SourceTrack    = $slug
             }
             $index++
