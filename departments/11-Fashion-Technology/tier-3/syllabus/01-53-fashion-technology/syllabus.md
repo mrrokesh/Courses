@@ -3,7 +3,7 @@ title: "Track 53: Fashion Technology"
 institution: MR ROKESH TECHNOLOGY
 tier: 3
 department: Fashion Technology
-version: 1.0
+version: 1.1
 date: June 2026
 ---
 
@@ -15,9 +15,84 @@ date: June 2026
 
 </div>
 
-> **Skill path:** Fashion Illustration → Textile Science → Pattern Making → Garment Construction → CAD/CAM Fashion → Portfolio → Merchandising → Sustainable Fashion
+> **Skill path:** Digital Illustration & Styling → Technical Flat Sketching & Tech Packs → Textile & Print Design → Pattern Making & Construction → 3D Virtual Draping (CLO3D) → Merchandising → Sustainable Fashion
 
 **Related:** [Track 09 — UI/UX & Web Design](09-ui-ux-web-design.md) · [Track 11 — Digital Marketing](11-digital-marketing-promotion.md) · [Department Map](../00-department-course-map.md)
+
+---
+
+## Teachable Skill Modules
+
+Industry-ready skills you can deliver to students, grouped by module. Each skill includes suggested tools and the earliest tier where it is taught.
+
+### Module A — Digital Design & Visual Communication
+
+| Skill | Tools / Software | Introduced |
+|-------|------------------|------------|
+| **Digital Fashion Illustration** (figure drawing, rendering, fabric texture) | Adobe Illustrator, Procreate, Photoshop, Krita | 2 Weeks |
+| **Digital Mood Boarding & Conceptual Visual Styling** (theme, color story, trend direction) | Canva, Pinterest, Milanote, Adobe Express, Figma | 2 Weeks |
+| **Lookbook & Campaign Layout Design** | InDesign, Canva, Adobe Express | 1 Month |
+| **Fashion Photography Direction & Styling Basics** (on-model vs flat lay) | Smartphone + Lightroom; studio lighting intro | 3 Months |
+| **Brand Identity for Fashion Labels** (logo, label, hang tag, packaging mockups) | Illustrator, Canva; links to [Track 09](09-ui-ux-web-design.md) | 6 Months |
+
+### Module B — Technical Design & Production Documentation
+
+| Skill | Tools / Software | Introduced |
+|-------|------------------|------------|
+| **Technical Flat Sketching & CAD Drafting** (front/back views, stitch lines, callouts) | Adobe Illustrator, CorelDRAW, Optitex (2D) | 1 Month |
+| **Digital Tech Pack Creation & Specification Sheet Design** (BOM, measurements, construction notes) | Excel/Google Sheets + Illustrator; Techpacker, PLM intro | 3 Months |
+| **Grading & Size Set Documentation** | Manual grading + Gerber Accumark intro | 3 Months |
+| **Costing Sheet & Bill of Materials (BOM) Preparation** | Excel, Tally basics ([Track 10](10-office-suite-tally-business-tools.md)) | 3 Months |
+| **Production File Handoff for Sampling & Bulk Manufacturing** | PDF tech packs, marker planning intro | 6 Months |
+
+### Module C — 3D Virtual Fashion & Digital Sampling
+
+| Skill | Tools / Software | Introduced |
+|-------|------------------|------------|
+| **3D Virtual Garment Draping & Avatar Customization** | CLO 3D, Browzwear (intro), Marvelous Designer (intro) | 3 Months |
+| **Digital Fabric Simulation & Trim Application** | CLO 3D material library, custom fabric scans | 3 Months |
+| **Virtual Runway / Lookbook Renders** (turntable, animation export) | CLO 3D, Blender (optional), Photoshop compositing | 6 Months |
+| **Digital Sample Approval Workflow** (reduce physical sampling cycles) | CLO 3D + tech pack integration | 6 Months |
+
+### Module D — Textile, Print & Surface Design
+
+| Skill | Tools / Software | Introduced |
+|-------|------------------|------------|
+| **Textile Pattern, Repeat & Print Design** (placement vs all-over repeat) | Illustrator, Photoshop, Procreate, Repper | 1 Month |
+| **Color Separation & Print-Ready File Export** | Illustrator, Photoshop | 3 Months |
+| **Fabric Swatch Documentation & Material Specification** | Physical swatches + digital spec sheets | 2 Weeks |
+| **Sustainable Material Selection & Eco-Label Awareness** | GOTS, OEKO-TEX, BCI reference frameworks | 6 Months |
+| **Zero-Waste & Upcycling Design Techniques** | Manual pattern manipulation + CLO 3D simulation | 6 Months |
+
+### Module E — Pattern Making, Draping & Garment Construction
+
+| Skill | Tools / Software | Introduced |
+|-------|------------------|------------|
+| **Flat Pattern Drafting** (bodice, skirt, sleeve, collar, trouser blocks) | Pattern paper, grading rulers, dress forms | 2 Weeks |
+| **Garment Draping on Dress Form** | Muslin, pins, dress forms | 1 Month |
+| **Toile Fitting & Pattern Correction** | Sewing lab, fitting sessions | 1 Month |
+| **Industrial Sewing & Finishing Techniques** | Sewing machines, overlock, pressing | 1 Month |
+| **CAD Pattern Making & Marker Making Intro** | Gerber Accumark, Optitex, Lectra (intro) | 6 Months |
+
+### Module F — Fashion Business, Merchandising & Marketing
+
+| Skill | Tools / Software | Introduced |
+|-------|------------------|------------|
+| **Range Planning & Seasonal Merchandising** | Excel, merchandise calendar templates | 6 Months |
+| **Trend Forecasting & Market Research** | WGSN (intro), Pinterest Trends, runway analysis | 1 Month |
+| **Fashion E-Commerce & Social Commerce Basics** | Shopify, Instagram Shop; [Track 11](11-digital-marketing-promotion.md) | 6 Months |
+| **Export Documentation & Apparel Production Management** | Invoice, packing list, HS code awareness | 9 Months |
+| **Collection Pitch & Buyer Presentation** | PowerPoint/Canva pitch deck + physical/digital portfolio | 6 Months |
+
+### Skill Progression by Duration
+
+| Duration | Core skills to teach |
+|----------|-------------------|
+| **2 Weeks** | Digital Fashion Illustration · Digital Mood Boarding · Fabric Swatch Documentation · Basic Flat Pattern Drafting |
+| **1 Month** | + Technical Flat Sketching · Textile Pattern & Print Design · Garment Draping · Toile Fitting · Trend Forecasting |
+| **3 Months** | + Digital Tech Pack Creation · 3D Virtual Garment Draping (CLO3D) · Color Separation · Grading Documentation · Lookbook Design |
+| **6 Months** | + Virtual Runway Renders · CAD Pattern Making Intro · Range Planning · Sustainable Design · Brand Identity · E-Commerce Basics |
+| **9 Months** | + Production Handoff · Export Documentation · Graduate Collection · Brand Launch Pitch · Fashion Show / Campaign |
 
 ---
 
@@ -27,7 +102,7 @@ date: June 2026
 
 **Prerequisites:** Basic drawing skills helpful; no prior fashion education required for 2-week/1-month tiers.
 
-**Tools:** Adobe Illustrator/Photoshop, CLO 3D or Optitex (intro), Gerber Accumark (intro, 6-month+), sewing lab equipment, dress forms, fabric swatches.
+**Tools:** Adobe Illustrator · Photoshop · Procreate · CLO 3D · Canva · InDesign · Techpacker (intro) · Gerber Accumark (intro) · sewing lab equipment · dress forms · fabric swatches
 
 **Certification targets:** Portfolio-ready for design houses; Adobe Certified Professional (optional, 6-month)
 
@@ -59,10 +134,10 @@ Mon–Thu design/construction labs | Fri project milestone | Sat critique sessio
 
 | Days | Topics | Deliverable | Self-Check |
 |------|--------|-------------|------------|
-| D1–2 | Fashion history, elements of design, color theory | Mood board | Name 5 elements of design |
-| D3–4 | Fashion illustration: croquis, rendering techniques | 5 illustrated figures |
-| D5–6 | Textile basics: fibers, weaves, finishes | Fabric swatch book (10 samples) |
-| D7–8 | Pattern making intro: bodice block, skirt block | Paper patterns |
+| D1–2 | Fashion history, elements of design, color theory; **Digital Mood Boarding & Conceptual Visual Styling** | Mood board (Canva/Milanote) | Name 5 elements of design |
+| D3–4 | **Digital Fashion Illustration** — croquis, rendering (Illustrator/Procreate) | 5 illustrated figures | Render 1 fabric texture |
+| D5–6 | Textile basics: fibers, weaves, finishes; **Fabric Swatch Documentation** | Fabric swatch book (10 samples) | Identify 3 weave types |
+| D7–8 | **Flat Pattern Drafting** intro: bodice block, skirt block | Paper patterns | Draft 1 block correctly |
 | D9–10 | Basic garment construction, capstone | **Illustration board + stitched sample** |
 
 **Submission checklist:**
@@ -79,10 +154,10 @@ Mon–Thu design/construction labs | Fri project milestone | Sat critique sessio
 
 | Week | Topics | Project |
 |------|--------|---------|
-| W1 | Illustration advanced, design process, trend research | Trend report + illustrations |
-| W2 | Textile science, fabric selection, sourcing intro | Fabric specification sheet |
-| W3 | Pattern drafting, grading intro, toile fitting | Pattern set for 1 design |
-| W4 | Garment construction, finishing, lookbook layout | **Mini collection (3 looks) + lookbook** |
+| W1 | **Digital Fashion Illustration** advanced, **Digital Mood Boarding**, trend research | Trend report + illustrations |
+| W2 | Textile science, **Textile Pattern, Repeat & Print Design** (Illustrator/Procreate) | Print design + fabric specification sheet |
+| W3 | **Technical Flat Sketching**, pattern drafting, toile fitting | Flat sketches + pattern set for 1 design |
+| W4 | Garment construction, **Lookbook Layout Design**, finishing | **Mini collection (3 looks) + lookbook PDF** |
 
 **W4 acceptance criteria:**
 - [ ] 3 coordinated designs with illustrations
@@ -98,14 +173,15 @@ Mon–Thu design/construction labs | Fri project milestone | Sat critique sessio
 
 | Month | Topics | Projects |
 |-------|--------|----------|
-| M1 | Advanced illustration, design development, collection planning | Design portfolio (10+ sketches) |
-| M2 | Pattern making: sleeves, collars, trousers, draping intro | Pattern library + draped sample |
-| M3 | CLO 3D / digital fashion CAD, tech packs, capstone | **Capsule collection (5 looks) + tech packs** |
+| M1 | Advanced illustration, **Conceptual Visual Styling**, collection planning | Design portfolio (10+ sketches) |
+| M2 | Pattern making, draping, **Technical Flat Sketching & CAD Drafting** | Pattern library + flat sketch set |
+| M3 | **3D Virtual Garment Draping & Avatar Customization (CLO3D)**, **Digital Tech Pack Creation & Specification Sheets**, capstone | **Capsule collection (5 looks) + tech packs + CLO3D renders** |
 
 **M3 Capstone acceptance criteria:**
-- [ ] 5-look capsule with cohesive theme
-- [ ] Tech packs for each look (flat sketches, BOM, measurements)
-- [ ] 3D digital garment simulation OR fully constructed hero piece
+- [ ] 5-look capsule with cohesive theme and mood board
+- [ ] **Digital tech packs** for each look (flat sketches, BOM, measurements, construction notes)
+- [ ] **CLO3D virtual garment** with avatar customization OR fully constructed hero piece
+- [ ] **Textile print/pattern design** applied to at least 1 look
 - [ ] Lookbook + cost sheet
 
 ---
@@ -114,12 +190,12 @@ Mon–Thu design/construction labs | Fri project milestone | Sat critique sessio
 
 | Month | Topics | Projects |
 |-------|--------|----------|
-| M1 | Design fundamentals, illustration, textiles | Trend-driven design portfolio |
+| M1 | Digital illustration, mood boarding, textiles, print design | Trend-driven design portfolio |
 | M2 | Pattern making, draping, garment construction | Ready-to-wear garment line (3 pieces) |
-| M3 | Fashion CAD (CLO 3D/Optitex), digital sampling | Digital collection |
+| M3 | **CLO3D virtual draping**, digital fabric simulation, **tech pack production workflow** | Digital collection + approved tech packs |
 | M4 | Merchandising, range planning, costing, sourcing | Merchandise plan for season |
-| M5 | Sustainable fashion, zero-waste design, branding | Sustainable design project |
-| M6 | Portfolio development, fashion show prep, capstone | **Industry-ready portfolio + brand pitch** |
+| M5 | Sustainable fashion, zero-waste design, **brand identity for fashion labels** | Sustainable design project + brand kit |
+| M6 | **Virtual runway renders**, portfolio development, fashion show prep, capstone | **Industry-ready portfolio + brand pitch** |
 
 **M6 Capstone acceptance criteria (L4):**
 - [ ] Portfolio with 3+ completed projects
@@ -176,10 +252,11 @@ Mon–Thu design/construction labs | Fri project milestone | Sat critique sessio
 
 ## Recommended Resources
 
-- [Designlab UX Academy](https://designlab.com/ux-academy) (design process reference)
-- Adobe Fashion Illustration tutorials
-- CLO 3D learning resources
-- Textile science reference: Fabric for Fashion (Clive Hallett)
+- Adobe Illustrator & Procreate fashion illustration tutorials
+- [CLO 3D learning resources](https://www.clo3d.com) — virtual draping, avatar customization, animation export
+- Techpacker / WGSN (intro) for tech pack and trend reference
+- Textile science reference: *Fabric for Fashion* (Clive Hallett)
+- [Track 09 — UI/UX](09-ui-ux-web-design.md) for brand website; [Track 11 — Digital Marketing](11-digital-marketing-promotion.md) for fashion campaigns
 
 ---
 
