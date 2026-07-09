@@ -1,0 +1,106 @@
+/* MR ROKESH TECHNOLOGY — A4 Poster Styles */
+
+@page {
+  size: A4 portrait;
+  margin: 0.6in;
+}
+
+body {
+  font-family: "Segoe UI", Calibri, Arial, sans-serif;
+  color: #1a1a2e;
+  margin: 0;
+  padding: 0;
+}
+
+.poster {
+  text-align: center;
+}
+
+.poster-brand {
+  font-size: 11pt;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #1e3a5f;
+  text-transform: uppercase;
+  border-bottom: 3px solid #1e3a5f;
+  padding-bottom: 8pt;
+  margin-bottom: 16pt;
+}
+
+.poster-dept {
+  font-size: 12pt;
+  color: #4a5568;
+  margin-bottom: 8pt;
+}
+
+.poster-title {
+  font-size: 26pt;
+  font-weight: 800;
+  color: #1e3a5f;
+  line-height: 1.2;
+  margin: 12pt 0 20pt;
+}
+
+.poster-subtitle {
+  font-size: 14pt;
+  color: #2c5282;
+  font-weight: 600;
+  margin-bottom: 24pt;
+}
+
+.poster-box {
+  background: #f0f4f8;
+  border-left: 5px solid #1e3a5f;
+  padding: 14pt 18pt;
+  text-align: left;
+  margin: 16pt auto;
+  max-width: 90%;
+}
+
+.poster-box h3 {
+  font-size: 11pt;
+  color: #1e3a5f;
+  margin: 0 0 8pt;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.poster-box ul {
+  margin: 0;
+  padding-left: 18pt;
+  font-size: 11pt;
+  line-height: 1.6;
+}
+
+.poster-tagline {
+  font-size: 13pt;
+  font-weight: 700;
+  color: #1e3a5f;
+  margin: 24pt 0 12pt;
+  letter-spacing: 1px;
+}
+
+.poster-cta {
+  font-size: 12pt;
+  background: #1e3a5f;
+  color: #fff;
+  padding: 10pt 20pt;
+  display: inline-block;
+  margin-top: 12pt;
+  border-radius: 4px;
+}
+
+.poster-footer {
+  font-size: 9pt;
+  color: #718096;
+  margin-top: 20pt;
+  border-top: 1px solid #e2e8f0;
+  padding-top: 10pt;
+}
+
+.poster-free {
+  font-size: 16pt;
+  font-weight: 700;
+  color: #276749;
+  margin: 16pt 0;
+}

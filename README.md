@@ -174,4 +174,5 @@ The script reads track Markdown and PDF files from the source library, then rebu
 
 - **GitHub:** [mrrokesh/Courses](https://github.com/mrrokesh/Courses)
 - **Course index:** [course-manifest.csv](course-manifest.csv)
+- **College outreach kit:** [college-outreach/README.md](college-outreach/README.md) — posters, brochures, MoU, email templates (29 PDFs)
 - **Build script:** [scripts/build-department-catalog.ps1](scripts/build-department-catalog.ps1)
