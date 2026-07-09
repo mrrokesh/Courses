@@ -38,9 +38,9 @@
 
 ## Before Printing
 
-1. Replace `[Your Phone]`, `[Your Email]`, `[Your Website]` in posters and brochures
-2. Add your logo image if desired (edit markdown or print and affix)
-3. Generate QR code linking to your Google Form registration
+1. Add your logo image if desired (edit markdown or print and affix)
+2. Generate QR code linking to your Google Form registration
+3. **Contact on all materials:** +91 82486 96883 · contact@mrrokesh.com · www.mrrokesh.com
 
 ---
 

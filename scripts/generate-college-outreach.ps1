@@ -3,6 +3,10 @@ $OutreachRoot = Join-Path (Split-Path -Parent $PSScriptRoot) "college-outreach"
 $PosterDir = Join-Path $OutreachRoot "posters"
 $BrochureDir = Join-Path $OutreachRoot "brochures"
 
+$ContactPhone   = "+91 82486 96883"
+$ContactEmail   = "contact@mrrokesh.com"
+$ContactWebsite = "www.mrrokesh.com"
+
 New-Item -ItemType Directory -Force -Path $PosterDir, $BrochureDir | Out-Null
 
 $depts = @(
@@ -174,7 +178,7 @@ $hl
 
 <div class="poster-footer">
 Training & Internship Programs · 2 Weeks to 9 Months · 53 Industry Tracks<br>
-Contact: [Your Phone] · [Your Email] · [Your Website]
+Contact: $ContactPhone · $ContactEmail · $ContactWebsite
 </div>
 
 </div>
@@ -265,14 +269,11 @@ $courses
 | | |
 |---|---|
 | **Organization** | MR ROKESH TECHNOLOGY TRAINING & INTERNSHIP PROGRAMS |
-| **Phone** | [Your Phone Number] |
-| **Email** | [Your Email] |
-| **Website** | [Your Website] |
+| **Phone** | $ContactPhone |
+| **Email** | $ContactEmail |
+| **Website** | $ContactWebsite |
+| **WhatsApp** | wa.me/918248696883 |
 | **Courses** | github.com/mrrokesh/Courses |
-
----
-
-*Replace bracketed contact fields before printing.*
 "@
 }
 

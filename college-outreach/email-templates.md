@@ -11,7 +11,7 @@ institution: MR ROKESH TECHNOLOGY
 
 </div>
 
-> Replace `[bracketed]` fields before sending. Attach the matching department brochure PDF.
+> Replace `[bracketed]` college/name fields before sending. Contact details are pre-filled. Attach the matching department brochure PDF.
 
 ---
 
@@ -48,9 +48,8 @@ We have successfully designed curricula aligned with current placement demands i
 Attached: Department brochure for your review.
 
 Warm regards,  
-**[Your Name]**  
-MR ROKESH TECHNOLOGY  
-📞 [Phone] | ✉️ [Email] | 🌐 [Website]
+**MR ROKESH TECHNOLOGY**  
+📞 +91 82486 96883 | ✉️ contact@mrrokesh.com | 🌐 www.mrrokesh.com
 
 ---
 
@@ -71,7 +70,7 @@ If helpful, we can start with a **short 30-minute guest lecture** in the auditor
 Please let me know a convenient time to connect.
 
 Regards,  
-**[Your Name]** | MR ROKESH TECHNOLOGY | [Phone]
+MR ROKESH TECHNOLOGY | +91 82486 96883
 
 ---
 
@@ -105,7 +104,7 @@ Thank you for confirming the session. Please find the event details below:
 Looking forward to a great session.
 
 Regards,  
-**[Your Name]** | MR ROKESH TECHNOLOGY
+MR ROKESH TECHNOLOGY | contact@mrrokesh.com
 
 ---
 
@@ -133,7 +132,7 @@ We would also welcome a discussion on a **long-term MoU** for skill development,
 Please share this with interested students or allow us a 10-minute announcement in the next class.
 
 Regards,  
-**[Your Name]** | MR ROKESH TECHNOLOGY | [Phone] | [WhatsApp Group Link]
+MR ROKESH TECHNOLOGY | +91 82486 96883 | WhatsApp: wa.me/918248696883
 
 ---
 
@@ -158,4 +157,4 @@ Regards,
 
 ## WhatsApp Message (Short)
 
-> Hi [Name], this is [Your Name] from **MR ROKESH TECHNOLOGY**. We conduct free industry seminars & workshops for colleges (Full Stack, AI, Robotics, Fashion Tech, etc.). Can I share a proposal for a free **[Dept]** session at **[College]**? 3 hrs, certificate included, zero cost to college. 🎓
+> Hi [Name], this is **MR ROKESH TECHNOLOGY** (contact@mrrokesh.com | 8248696883). We conduct free industry seminars & workshops for colleges (Full Stack, AI, Robotics, Fashion Tech, etc.). Can I share a proposal for a free **[Dept]** session at **[College]**? 3 hrs, certificate included, zero cost to college.

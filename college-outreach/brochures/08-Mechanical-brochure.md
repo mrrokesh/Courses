@@ -84,11 +84,8 @@ institution: MR ROKESH TECHNOLOGY
 | | |
 |---|---|
 | **Organization** | MR ROKESH TECHNOLOGY TRAINING & INTERNSHIP PROGRAMS |
-| **Phone** | [Your Phone Number] |
-| **Email** | [Your Email] |
-| **Website** | [Your Website] |
+| **Phone** | +91 82486 96883 |
+| **Email** | contact@mrrokesh.com |
+| **Website** | www.mrrokesh.com |
+| **WhatsApp** | wa.me/918248696883 |
 | **Courses** | github.com/mrrokesh/Courses |
-
----
-
-*Replace bracketed contact fields before printing.*

@@ -24,7 +24,8 @@ institution: MR ROKESH TECHNOLOGY
 
 **AND**
 
-**MR ROKESH TECHNOLOGY TRAINING & INTERNSHIP PROGRAMS**, located at **[Your Address]**  
+**MR ROKESH TECHNOLOGY TRAINING & INTERNSHIP PROGRAMS**  
+**Contact:** contact@mrrokesh.com · +91 82486 96883 · www.mrrokesh.com
 (hereinafter referred to as **"MR ROKESH TECHNOLOGY"** or **"the Company"**)
 
 **Effective Date:** **[Date]**
