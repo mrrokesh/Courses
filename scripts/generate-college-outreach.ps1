@@ -178,7 +178,7 @@ $hl
 
 <div class="poster-footer">
 Training & Internship Programs · 2 Weeks to 9 Months · 53 Industry Tracks<br>
-Contact: $ContactPhone · $ContactEmail · $ContactWebsite
+Contact: $ContactPhone | $ContactEmail | $ContactWebsite
 </div>
 
 </div>

@@ -32,7 +32,7 @@ css: ../styles/poster.css
 
 <div class="poster-footer">
 Training & Internship Programs Â· 2 Weeks to 9 Months Â· 53 Industry Tracks<br>
-Contact: +91 82486 96883 Â· contact@mrrokesh.com Â· www.mrrokesh.com
+Contact: +91 82486 96883 | contact@mrrokesh.com | www.mrrokesh.com
 </div>
 
 </div>
